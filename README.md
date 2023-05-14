@@ -32,7 +32,7 @@
   Watch the video below to see the program in action.
   
   ## License
-  This application is covered under the MIT license.
+  This application is covered under the MIT license. 
   
   ## Contributing
   All users are very welcome to leave their comments and suggestions for improvement by sending me a direct message or creating pull requests on Github.
